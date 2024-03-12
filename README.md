@@ -1,1 +1,1 @@
-Os arquivos utilizados para esse código encontram-se neste link do drive https://drive.google.com/drive/folders/1wEElFKtSLDaq9yeHhF2lGJbPWOybjYpq?usp=sharing
+Como os arquivos de dados da Ana são muito grandes, não foi possível incluí-los diretamente no GitHub. No entanto, disponibilizei o link do Google Drive neste README para que você possa acessar todos os dados facilmente. https://drive.google.com/drive/folders/1wEElFKtSLDaq9yeHhF2lGJbPWOybjYpq?usp=sharing
